@@ -1,0 +1,20 @@
+[
+    {
+        "cabang": "Ampera",
+        "namaPelanggan": "Christopher Imanuel",
+        "nomorHp": "08131160890",
+        "jumlahPesananBaju": "21",
+        "tagihanAwal": "Rp 105.000,00",
+        "diskon": "Rp 5.250,00",
+        "tagihanAkhir": "Rp 99.750,00"
+    },
+    {
+        "cabang": "Rajawali",
+        "namaPelanggan": "Anton Pulung Hardiyanto",
+        "nomorHp": "081265798796",
+        "jumlahPesananBaju": "5",
+        "tagihanAwal": "Rp 25.000,00",
+        "diskon": "Rp 0,00",
+        "tagihanAkhir": "Rp 25.000,00"
+    }
+]

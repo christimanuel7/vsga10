@@ -1,0 +1,20 @@
+[
+    {
+        "bangunRuang": "Segitiga",
+        "alasSegitiga": "14",
+        "tinggiSegitiga": "2",
+        "luasSegitiga": "14"
+    },
+    {
+        "bangunRuang": "Segitiga",
+        "alasSegitiga": "21",
+        "tinggiSegitiga": "2",
+        "luasSegitiga": "21"
+    },
+    {
+        "bangunRuang": "Segitiga",
+        "alasSegitiga": "144",
+        "tinggiSegitiga": "2",
+        "luasSegitiga": "144"
+    }
+]
